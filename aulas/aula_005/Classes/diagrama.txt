@@ -1,0 +1,9 @@
+                  >>>> Diagrama <<<<
+
+Cliente - Classe Abstrata:
+  ClienteFisico - Classe Concreta
+  ClienteJuridico - Classe Concreta
+
+Conta - Classe Abstrata:
+  ContaCorrente - Classe Concreta
+  ContaPoupanca - Classe Concreta
