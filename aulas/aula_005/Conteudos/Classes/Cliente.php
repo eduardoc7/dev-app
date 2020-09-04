@@ -10,5 +10,4 @@ class Cliente
   {
     $this->dataNascimento = $dataNascimento;
   }
-
 }
