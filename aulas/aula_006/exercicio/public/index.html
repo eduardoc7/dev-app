@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício Aula 006</title>
+  </head>
+  <body>
+    <form method="POST" action="../src/index.php">
+      <h1>Digite dois valores para realizar as operações</h1>
+      <fieldset>
+        <legend>
+          <h2>Números inteiros a serem digitados</h2>
+        </legend>
+
+        <div class="field">
+          <label for="num1">1° número</label>
+          <input type="number" name="numero1" required>
+        </div>
+        <div class="field">
+          <label for="num2">2° número</label>
+          <input type="number" name="numero2" required>
+        </div>
+      </fieldset>
+
+      <button type="submit" value="Enviar">Calcular</button>
+    </form>
+  </body>
+</html>
