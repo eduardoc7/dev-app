@@ -1,1 +1,1 @@
-# Aplicações e exercicios desenvolvidas na disciplina Desenvolvido de Aplicações
+### Projetos desenvolvidos na disciplina de desenvolvimento de aplicações.
